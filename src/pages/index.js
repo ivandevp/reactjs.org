@@ -156,7 +156,7 @@ class Home extends Component {
                       fontSize: 30,
                     },
                   }}>
-                  A JavaScript library for building user interfaces
+                  Una librería de JavaScript para construir interfaces de usuario
                 </p>
                 <Flex
                   valign="center"
@@ -169,12 +169,12 @@ class Home extends Component {
                   }}>
                   <CtaItem>
                     <ButtonLink to="/docs/hello-world.html" type="primary">
-                      Get Started
+                      ¡Inicia de una vez!
                     </ButtonLink>
                   </CtaItem>
                   <CtaItem>
                     <ButtonLink to="/tutorial/tutorial.html" type="secondary">
-                      Take the Tutorial
+                      Revisa el tutorial
                     </ButtonLink>
                   </CtaItem>
                 </Flex>
