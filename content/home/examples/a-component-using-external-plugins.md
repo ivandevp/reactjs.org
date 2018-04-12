@@ -1,6 +1,6 @@
 ---
-title: A Component Using External Plugins
+title: Un componente usando plugins externos
 order: 3
 ---
 
-React is flexible and provides hooks that allow you to interface with other libraries and frameworks. This example uses **remarkable**, an external Markdown library, to convert the `<textarea>`'s value in real time.
+React es flexible y provee hooks que te permiten interactuar con otras librerías y frameworks. Este ejemplo usa **remarkable**, un librería externa de Markdown, para convertir el valor del `<textarea>` en tiempo real.
